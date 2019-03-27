@@ -3007,7 +3007,7 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 25em;
+			width: 50em;
 		}
 
 			.spotlights > section > .image img {
@@ -3101,7 +3101,7 @@ input, select, textarea {
 				}
 
 				.spotlights > section > .content {
-					width: 100%;
+					width: 80%;
 				}
 
 				.spotlights > section.inactive > .content > .inner, body.is-preload .spotlights > section > .content > .inner {
