@@ -3912,3 +3912,34 @@ background: #302b63; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, S
 			}
 
 		}
+
+		.devicon-react-original {
+			font-size: 3rem;
+			margin-right: 20px;
+		}
+
+		.devicon-ruby-plain {
+			font-size: 3rem;
+			margin-right: 20px;
+		}
+
+		.devicon-javascript-plain {
+			font-size: 3rem;
+			margin-right: 20px;
+		}
+
+		.devicon-rails-plain {
+			font-size: 3rem;
+			margin-right: 20px;
+		}
+
+		.devicon-html5-plain {
+			font-size: 3rem;
+			margin-right: 20px;
+		}
+
+		.devicon-postgresql-plain {
+			font-size: 3rem;
+			margin-right: 20px;
+		}
+
